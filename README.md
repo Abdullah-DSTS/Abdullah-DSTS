@@ -22,14 +22,14 @@
 
 
 ### Glad to see you here!  
-I am a Data Engineer with expertise in building robust data pipelines, optimizing ETL workflows, and delivering actionable insights through cloud technologies. My focus is on leveraging Google Cloud Platform and its services to create scalable, efficient, and secure data solutions.  
+I am a Data Engineer with expertise in building robust data pipelines, optimizing ETL workflows, and delivering actionable insights through cloud technologies. I leverage Google Cloud Platform and its services to create scalable, efficient, and secure data solutions.  
   
 
-
+<img align="right" alt="Coding" width="400" style="padding-left: 20px; position: relative; top: 50px;" src="https://miro.medium.com/v2/resize:fit:900/1*YCrp0Z8mAOe2IUV9XmlEDw.gif">
 
 ### How I can help:  
 - **Optimize Data Workflows:** I design and implement efficient ETL processes that streamline data collection, transformation, and loading, ensuring faster decision-making.
-- **Build Scalable Data Pipelines:** Using cloud platforms like GCP and its tools, I create scalable data architectures to handle complex datasets and large-scale operations.
+- **Build Scalable Data Pipelines:** I create scalable data architectures to handle complex datasets and large-scale operations using cloud platforms like GCP and its tools.
 - **Deliver Actionable Insights:** By cleaning, transforming, and integrating data from various sources, I help businesses unlock the full potential of their data to inform strategic decisions.
 - **Ensure Data Quality & Integrity:** I ensure that data is accurate, consistent, and available when needed, minimizing downtime and maximizing data reliability.
 
@@ -96,11 +96,10 @@ Whether it's improving the performance of existing data infrastructure or buildi
   
   
 
-<br/>  
 
 
 ## Rapidfire  
-<table><tr><td valign="top" width="50%">
+
 
 - 🎯 I’m currently working on optimizing data pipelines on **Google Cloud Platform**, using **Apache Airflow** and **BigQuery**.  
   
@@ -114,16 +113,8 @@ Whether it's improving the performance of existing data infrastructure or buildi
 - ⚡ Fun fact: I automate my daily workflows using Python scripts to save time and ensure efficiency.  
 
 
-</td><td valign="top" width="50%">
-
-<div align="center">
-<img src="" align="center" style="width: 100%" />
-</div>  
 
 
-</td></tr></table>  
-
-<br/>  
 
 
 ## Languages and Tools  
@@ -156,23 +147,13 @@ Whether it's improving the performance of existing data infrastructure or buildi
 <a href="https://www.r-project.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/r.svg" alt="R" height="25" /></a>  
 </div>  
 
-<br/>  
 
 
 ## Github Stats  
-<table><tr><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Abdullah-DSTS&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdullah-dsts&show_icons=true&locale=en" alt="abdullah-dsts" /></p>
 
-</td><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdullah-DSTS&hide_border=true&layout=compact" align="left" style="width: 100%" />
-
-</td></tr></table>  
-
-<br/>  
-
-  
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdullah-dsts&" alt="abdullah-dsts" /></p>
 
 <br/>  
 
