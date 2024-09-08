@@ -166,4 +166,4 @@ Whether it's improving the performance of existing data infrastructure or buildi
 <br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+
