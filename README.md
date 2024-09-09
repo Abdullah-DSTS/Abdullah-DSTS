@@ -89,7 +89,7 @@ Whether it's improving the performance of existing data infrastructure or buildi
 - Reading data from **PostgreSQL** and loading it to the **MSSQL**. [Notebook](https://github.com/Abdullah-DSTS/My-Data-Engineering-work/blob/e9b3bbc2bea5682395f005be9ba6a9821b7438f6/Data%20Migration/PostgreSQL_to_SQL_Server.ipynb)
 - Reading data from **CSVs** and loading it to the **MSSQL and PostgreSQL**. [Notebook](https://github.com/Abdullah-DSTS/My-Data-Engineering-work/blob/e9b3bbc2bea5682395f005be9ba6a9821b7438f6/Data%20Migration/CSVs_to_SQL_Server_and_PostgreSQL.ipynb)
 - Reading data from **JSON** and loading it to the **MSSQL and PostgreSQL**. [Notebook](https://github.com/Abdullah-DSTS/My-Data-Engineering-work/blob/e9b3bbc2bea5682395f005be9ba6a9821b7438f6/Data%20Migration/JSON_To_SQL_Server_and_PostgreSQL.ipynb)
-- Reading data from **MSSQL and PostgreSQL** and loading it to the **JSON**. [Notebook]([https://github.com/your-repo-link](https://github.com/Abdullah-DSTS/My-Data-Engineering-work/blob/e9b3bbc2bea5682395f005be9ba6a9821b7438f6/Data%20Migration/SQL_Server_and_PostgreSQL_to_JSON.ipynb))
+- Reading data from **MSSQL and PostgreSQL** and loading it to the **JSON**. [Notebook](https://github.com/Abdullah-DSTS/My-Data-Engineering-work/blob/e9b3bbc2bea5682395f005be9ba6a9821b7438f6/Data%20Migration/SQL_Server_and_PostgreSQL_to_JSON.ipynb)
 - Reading data from **MSSQL and PostgreSQL** and loading it to the **CSVs**. [Notebook](https://github.com/Abdullah-DSTS/My-Data-Engineering-work/blob/e9b3bbc2bea5682395f005be9ba6a9821b7438f6/Data%20Migration/SQL_Server_and_Postgres_to_CSV.ipynb)
 
   *`Python, SQL`*
