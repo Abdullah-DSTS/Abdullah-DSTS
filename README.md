@@ -58,7 +58,7 @@ Whether it's improving the performance of existing data infrastructure or buildi
   - **Append Data:** Updates 3 PostgreSQL tables by appending the new data.
   - **Truncate and Replace:** Truncates and replaces data in 1 PostgreSQL table.
 
-  [Notebook](https://github.com/your-repo-link)
+  [Notebook](https://github.com/Abdullah-DSTS/My-Data-Engineering-work/blob/e9b3bbc2bea5682395f005be9ba6a9821b7438f6/BigQuery_to_PostgreSQL.ipynb)
 
   *`Python, BigQuery, Cloud Storage, PostgreSQL`*
 
