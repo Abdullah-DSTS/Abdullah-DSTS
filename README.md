@@ -68,7 +68,7 @@ Whether it's improving the performance of existing data infrastructure or buildi
 - **Retrieve Files:** Lists all files in a specific GCS bucket.
 - **Load to BigQuery:** Loads each CSV file from the GCS bucket into a corresponding BigQuery table, creating tables dynamically based on the file names.
 
-  [Notebook](https://github.com/your-repo-link)
+  [Notebook](https://github.com/Abdullah-DSTS/My-Data-Engineering-work/blob/e9b3bbc2bea5682395f005be9ba6a9821b7438f6/Bucket_To_BigQuery.ipynb)
 
   *`Python, BigQuery, Cloud Storage`*
 
@@ -80,17 +80,17 @@ Whether it's improving the performance of existing data infrastructure or buildi
 - **Call a stored procedure** (`add_categories`) in BigQuery with two parameters to add a new category to a table.
 - **Handles potential errors** and prints a success message upon completion.
 
-  [Notebook](https://github.com/your-repo-link)
+  [Notebook](https://github.com/Abdullah-DSTS/My-Data-Engineering-work/blob/e9b3bbc2bea5682395f005be9ba6a9821b7438f6/Parameterized%20Stored%20Procedure.ipynb)
 
   *`Python, BigQuery`*
 
 4. **Data Migration**
-- Reading data from **MSSQL** and loading it to the **PostgreSQL**. [Notebook](https://github.com/your-repo-link)
-- Reading data from **PostgreSQL** and loading it to the **MSSQL**. [Notebook](https://github.com/your-repo-link)
-- Reading data from **CSVs** and loading it to the **MSSQL and PostgreSQL**. [Notebook](https://github.com/your-repo-link)
-- Reading data from **JSON** and loading it to the **MSSQL and PostgreSQL**. [Notebook](https://github.com/your-repo-link)
-- Reading data from **MSSQL and PostgreSQL** and loading it to the **JSON**. [Notebook](https://github.com/your-repo-link)
-- Reading data from **MSSQL and PostgreSQL** and loading it to the **CSVs**. [Notebook](https://github.com/your-repo-link)
+- Reading data from **MSSQL** and loading it to the **PostgreSQL**. [Notebook](https://github.com/Abdullah-DSTS/My-Data-Engineering-work/blob/e9b3bbc2bea5682395f005be9ba6a9821b7438f6/Data%20Migration/SQL_Server_to_PostgreSQL.ipynb)
+- Reading data from **PostgreSQL** and loading it to the **MSSQL**. [Notebook](https://github.com/Abdullah-DSTS/My-Data-Engineering-work/blob/e9b3bbc2bea5682395f005be9ba6a9821b7438f6/Data%20Migration/PostgreSQL_to_SQL_Server.ipynb)
+- Reading data from **CSVs** and loading it to the **MSSQL and PostgreSQL**. [Notebook](https://github.com/Abdullah-DSTS/My-Data-Engineering-work/blob/e9b3bbc2bea5682395f005be9ba6a9821b7438f6/Data%20Migration/CSVs_to_SQL_Server_and_PostgreSQL.ipynb)
+- Reading data from **JSON** and loading it to the **MSSQL and PostgreSQL**. [Notebook](https://github.com/Abdullah-DSTS/My-Data-Engineering-work/blob/e9b3bbc2bea5682395f005be9ba6a9821b7438f6/Data%20Migration/JSON_To_SQL_Server_and_PostgreSQL.ipynb)
+- Reading data from **MSSQL and PostgreSQL** and loading it to the **JSON**. [Notebook]([https://github.com/your-repo-link](https://github.com/Abdullah-DSTS/My-Data-Engineering-work/blob/e9b3bbc2bea5682395f005be9ba6a9821b7438f6/Data%20Migration/SQL_Server_and_PostgreSQL_to_JSON.ipynb))
+- Reading data from **MSSQL and PostgreSQL** and loading it to the **CSVs**. [Notebook](https://github.com/Abdullah-DSTS/My-Data-Engineering-work/blob/e9b3bbc2bea5682395f005be9ba6a9821b7438f6/Data%20Migration/SQL_Server_and_Postgres_to_CSV.ipynb)
 
   *`Python, SQL`*
   
